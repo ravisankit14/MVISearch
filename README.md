@@ -1,6 +1,5 @@
 # MVISearch
-# Android-Clean-Architecture-MVI-Maverick
-[![Jetpack Compose](https://developer.android.com/jetpack/compose)
+# Android-Clean-Architecture-MVI
 ![badge-Android](https://img.shields.io/badge/Platform-Android-brightgreen)
 [![API](https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=21)
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.9.20-blue.svg?style=flat&logo=kotlin)](https://kotlinlang.org)
