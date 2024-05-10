@@ -16,8 +16,7 @@ Search app using [Cocktail](www.thecocktaildb.com/api/json/v1/1/search.php?s=mar
 - Retrofit
 - Hilt - dependency injection
 
-## 👧 Developed By
-
+##Developed By
 **Ravi Shrivastava**
 
 [![Linkedin](https://img.shields.io/badge/-linkedin-grey?logo=linkedin)](https://https://www.linkedin.com/in/ravi-shrivastava-13015221/)
